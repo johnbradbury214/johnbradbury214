@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm <ahref="https://www.linkedin.com/in/johnsbradbury?trk=profile-badge">John Bradbury</a></h1>
+<h1 align="center">Hi 👋, I'm <a href="https://www.linkedin.com/in/johnsbradbury?trk=profile-badge">John Bradbury</a></h1>
 <h3 align="center">A full stack developer from Los Angeles, CA.</h3>
 <h3 align="center">My latest work | https://github.com/johnbradbury214/MiVet</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=johnbradbury214&label=Profile%20views&color=0e75b6&style=flat" alt="johnbradbury214" /> </p>
