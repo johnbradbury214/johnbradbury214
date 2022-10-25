@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm John Bradbury</h1>
+<h1 align="center">Hi 👋, I'm <ahref="https://www.linkedin.com/in/johnsbradbury?trk=profile-badge">John Bradbury</a></h1>
 <h3 align="center">A full stack developer from Los Angeles, CA.</h3>
 <h3 align="center">My latest work | https://github.com/johnbradbury214/MiVet</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=johnbradbury214&label=Profile%20views&color=0e75b6&style=flat" alt="johnbradbury214" /> </p>
@@ -9,5 +9,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=johnbradbury214&show_icons=true&locale=en" alt="johnbradbury214" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=johnbradbury214&" alt="johnbradbury214" /></p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=johnbradbury214" alt="johnbradbury214" /></a> </p>
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="johnsbradbury" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/johnsbradbury?trk=profile-badge">John Bradbury</a></div>
-              
+
