@@ -9,3 +9,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=johnbradbury214&show_icons=true&locale=en" alt="johnbradbury214" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=johnbradbury214&" alt="johnbradbury214" /></p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=johnbradbury214" alt="johnbradbury214" /></a> </p>
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
